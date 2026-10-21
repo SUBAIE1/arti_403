@@ -1,1 +1,1 @@
-# arti_403
+# arti_403: Image Processing Course
